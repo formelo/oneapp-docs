@@ -1,17 +1,13 @@
-**Storage**
+**Spinner Dialog**
 
 Native storage of variables in Android and iOS
 
 **Usage**
 
     (function(){
-           formelo().storage.setItem('myitem', {property: 'value', anotherProperty: 'anotherValue'})
-               .then(() => console.log('Stored item!'))
-               ,catch(error => console.error('Error storing item', error))
-                       
-           formelo().storage.getItem('myitem')
-               .then(() => console.log('Stored item!'))
-               .catch(error => console.error('Error storing item', error))
+          formelo().spinnerDialog.show();
+          
+          formelo().spinnerDialog.hide();
     })()
 
 **Instance Members**

@@ -1,22 +1,23 @@
-**Camera**
+**Fingerprint**
 
-Take a photo or capture video.
+Captures a fingerprint. This requires the use of an external bluetooth fingerprint reader.
 
-    
+Pass an "includeTemplate" option to the function call in order to alco sapture the template
+
+**Usage**
+
+
     import {React, Component} from 'react'
     Class TestClass extends Component {
         componentDidMount(){
-            const options: CameraOptions = {
-                  quality: 100,
-                  destinationType: formelo().camera.DestinationType.DATA_URL,
-                  encodingType: formelo().camera.EncodingType.JPEG,
-                  mediaType: formelo().camera.MediaType.PICTURE
+            const options = {
+                  includeTemplate : true
             }
             
-            formelo().camera.getPicture(options).then((imageData) => {
-                 // imageData is either a base64 encoded string or a file URI
-                 // If it's base64:
-                 let base64Image = 'data:image/jpeg;base64,' + imageData;
+            formelo().biometrics.getFingerprint(options).then((fingerprintData) => {
+                 // fingerprintData is an object that contains the base64 image and an optional base64 template 
+                 let image = imageData.image;
+                 let template = imageData.template;
             })
             .then(()=>{
                 // Handle error
@@ -28,6 +29,11 @@ Take a photo or capture video.
         }
     }
 
-
+**Instance Members**
+    
+    getFingerprint(options)
+| Param        | Type           | Details  |
+| ------------- |:-------------:| -----:|
+| includeTemplate     | boolean | Indicate is the fingerprint device should also capture a template of the user's fingerprint |
 
 

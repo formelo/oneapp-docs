@@ -1,56 +1,48 @@
-**Storage**
+**Field MetaData**
 
-Native storage of variables in Android and iOS
+Update a field's meta data
 
 **Usage**
 
     (function(){
-           formelo().storage.setItem('myitem', {property: 'value', anotherProperty: 'anotherValue'})
-               .then(() => console.log('Stored item!'))
-               ,catch(error => console.error('Error storing item', error))
-                       
-           formelo().storage.getItem('myitem')
-               .then(() => console.log('Stored item!'))
-               .catch(error => console.error('Error storing item', error))
-    })()
+           formelo().updateMetaData(key, options);
+    })();
 
 **Instance Members**
 
-    setItem(reference, value)
-Stores a value
+    updateMetaData(key, options)
+Update the meta values of a form field
 
 | Param        | Type           | Details  |
 | ------------- |:-------------:| -----:|
-| reference     | string |  |
-
-
-Returns: Promise<any>
+| key     | string | The field key to update |
 
     getItem(reference)
+    
 Gets a stored item
 
 | Param        | Type           | Details  |
 | ------------- |:-------------:| -----:|
-| reference     | string |  |
+| options     |  object |   |
 
 
-    keys()
-Retrieving all keys
+**Options**
+The available field options you can modify
 
-Returns: Promise<any>
-
-    remove(reference)
-Removes a single stored item
 
 | Param        | Type           | Details  |
 | ------------- |:-------------:| -----:|
-| reference     | string |  |
+| isValid     | boolean | Mark a field as valid or invalid |
+| errorComment     | string | A comment to state the reason why a field is invalid. This comment will only be displayed for invalid fields |
+| isRequired     | boolean | Mark a field as required or not. Only required fields are validated |
 
-    clear()
-Removes all stored values.
+**Batch Field Update**
+If you wish to update multiple fields with the same options call
 
-Returns: Promise<any>
-                               
-
-
-
+    batchUpdateMetaData(keys, options)
+    
+| Param        | Type           | Details  |
+| ------------- |:-------------:| -----:|
+| keys     | array | A list of field ketys to apply the batch updates to |
+| options     | object | Parameters to update same as stated  |
+    

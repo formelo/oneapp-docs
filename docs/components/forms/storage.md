@@ -4,26 +4,15 @@ Native storage of variables in Android and iOS
 
 **Usage**
 
-    import {React, Component} from 'react'
-    Class TestClass extends Component {
-        componentDidMount(){
-            formelo().storage.setItem('myitem', {property: 'value', anotherProperty: 'anotherValue'})
-              .then(
-                () => console.log('Stored item!'),
-                error => console.error('Error storing item', error)
-              );
-            
-            formelo().storage.getItem('myitem')
-              .then(
-                data => console.log(data),
-                error => console.error(error)
-              );
-        }
-        
-        render(){
-            
-        }
-    }
+    (function(){
+           formelo().storage.setItem('myitem', {property: 'value', anotherProperty: 'anotherValue'})
+               .then(() => console.log('Stored item!'))
+               ,catch(error => console.error('Error storing item', error))
+                       
+           formelo().storage.getItem('myitem')
+               .then(() => console.log('Stored item!'))
+               .catch(error => console.error('Error storing item', error))
+    })()
 
 **Instance Members**
 

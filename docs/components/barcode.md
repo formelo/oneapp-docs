@@ -1,25 +1,17 @@
-**Camera**
+**Barcode Scanner**
 
-Take a photo or capture video.
+The Barcode Scanner APi opens a camera view and automatically scans a barcode, returning the data back to you.
 
-    
+**Usage**  
+   
     import {React, Component} from 'react'
     Class TestClass extends Component {
         componentDidMount(){
-            const options: CameraOptions = {
-                  quality: 100,
-                  destinationType: formelo().camera.DestinationType.DATA_URL,
-                  encodingType: formelo().camera.EncodingType.JPEG,
-                  mediaType: formelo().camera.MediaType.PICTURE
-            }
-            
-            formelo().camera.getPicture(options).then((imageData) => {
-                 // imageData is either a base64 encoded string or a file URI
-                 // If it's base64:
-                 let base64Image = 'data:image/jpeg;base64,' + imageData;
+            formelo().barcode.scan(options).then((barcodeData) => {
+                  // Success! Barcode data is here
             })
             .then(()=>{
-                // Handle error
+                // An error occurred
             })
         }
         
@@ -29,5 +21,8 @@ Take a photo or capture video.
     }
 
 
-
+**Instance Members**
+   
+    scan()
+Open the barcode scanner.
 

@@ -1,56 +1,63 @@
-**Storage**
+**Picker**
 
-Native storage of variables in Android and iOS
+Display an list for a user to choose
 
 **Usage**
 
     (function(){
-           formelo().storage.setItem('myitem', {property: 'value', anotherProperty: 'anotherValue'})
-               .then(() => console.log('Stored item!'))
-               ,catch(error => console.error('Error storing item', error))
-                       
-           formelo().storage.getItem('myitem')
-               .then(() => console.log('Stored item!'))
-               .catch(error => console.error('Error storing item', error))
+            var options = {
+                name : 'Chose your preferred school'
+            }
+            var data = [
+                {
+                     title : 'London School of business',
+                     description: 'London school, 10 park view, London',
+                     image: 'https://unsplash.it/200/300',
+                     floatingText : '7 hours ago
+                     extra : {
+                        meta : 'Extra information'
+                     }
+                 }
+            ]
+           formelo().picker(options, data)
+            .then(selectedData => {
+                
+            })
+            .catch()
+           
     })()
 
 **Instance Members**
 
-    setItem(reference, value)
-Stores a value
+    options
+
 
 | Param        | Type           | Details  |
 | ------------- |:-------------:| -----:|
-| reference     | string |  |
+| name     | string | The question to ask the user  |
+| multiple     | boolean | Allow users to select multiple items  | 
 
 
-Returns: Promise<any>
-
-    getItem(reference)
-Gets a stored item
-
-| Param        | Type           | Details  |
-| ------------- |:-------------:| -----:|
-| reference     | string |  |
-
-
-    keys()
-Retrieving all keys
-
-Returns: Promise<any>
-
-    remove(reference)
-Removes a single stored item
+    data(reference)
+The array of fields for tbe
 
 | Param        | Type           | Details  |
 | ------------- |:-------------:| -----:|
-| reference     | string |  |
+| title     | string | The title of the record |
+| description     | string | 100 characters. Describe the field |
+| image     | string | An image to show |
+| floatingText     | string | 10 Characters. Extra text to show on the right |
+| extra     | object | Extra information to pass to the record. It will be returned alongside the selected record  |
 
-    clear()
-Removes all stored values.
 
-Returns: Promise<any>
-                               
+***The Response Object***
 
+| Param        | Type           | Details  |
+| ------------- |:-------------:| -----:|
+| title     | string | The title of the record |
+| description     | string | 100 characters. Describe the field |
+| image     | string | An image to show |
+| floatingText     | string | 10 Characters. Extra text to show on the right |
+| extra     | object | Extra information to pass to the record. It will be returned alongside the selected record  |
 
 

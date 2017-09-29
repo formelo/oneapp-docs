@@ -1,8 +1,9 @@
 # Summary
 
 ## Overview
-- [Introduction](README.md)
+- [Introduction](docs/start/index.md)
 - Quickstart
+  - [Your First Applet](docs/start/index.md#clone)
   - [Clone](docs/start/index.md#clone)
   - [Review](docs/start/review.md#review)
   - [Publish](docs/start/publish.md#publish)
@@ -16,15 +17,29 @@
 - [Chat](docs/guides/chat.md)
 
 ## Components
+- [Overview](docs/components/overview.md)
 - [Camera](docs/components/camera.md)
 - [Fingerprint](docs/components/fingerprint.md)
+- [InAppBrowser](docs/components/inappbrowser.md)
 - [Signature](docs/components/signature.md)
-- [Audio](docs/components/audio.md)
-- [Video](docs/components/video.md)
-- [Select List](docs/components/select.md)
-- [Multiselect List](docs/components/multiselect.md)
 - [Barcode](docs/components/barcode.md)
 - [Map](docs/components/map.md)
+- [Spinner](docs/components/spinner.md)
+- [Storage](docs/components/storage.md)
+- [Profile](docs/components/profile.md)
+- [Auth](docs/components/auth.md)
+
+## Forms API
+- [Overview](docs/components/forms/overview.md)
+- [Field Display](docs/components/forms/display.md)
+- [Cache](docs/components/forms/cache.md)
+- [InAppBrowser](docs/components/forms/inappbrowser.md)
+- [Field Invalidation](docs/components/forms/invalidation.md)
+- [Picker](docs/components/forms/picker.md)
+- [Spinner](docs/components/forms/spinner.md)
+- [Field Update](docs/components/forms/update.md)
+- [Network](docs/components/forms/network.md)
+- [Toast](docs/components/forms/toast.md)
 
 ## Security
 - Authentication
@@ -36,6 +51,7 @@
 - [Camera](docs/components/camera.md)
 - [Fingerprint](docs/components/fingerprint.md)
 - [Signature](docs/components/signature.md)
+- [InAppBrowser](docs/components/inappbrowser.md)
 - [Audio](docs/components/audio.md)
 - [Video](docs/components/video.md)
 - [Select List](docs/components/select.md)

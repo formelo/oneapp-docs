@@ -1,31 +1,27 @@
-**In App Browser**
+#In App Browser
 
 Launches in app Browser
 
-**Usage**  
-   
-    import {React, Component} from 'react'
-    Class TestClass extends Component {
-        componentDidMount(){
-           const browser = formelo().iab.create('https://formelo.com/');
-           browser.executeScript(...);
-           browser.insertCSS(...);
-           browser.close();
-        }
-        
-        render(){
-            
-        }
-    }
-
-**Instance Members**
-
+##Usage
+ 
+ ```js+lineNumbers:true
+ (function(){
+    const browser = formelo().iab.create('https://formelo.com/');
+    browser.executeScript(...);
+    browser.insertCSS(...);
+    browser.close();
+})();
+ ```  
+##Instance Members
+    
+```js+lineNumbers:true
     create(url, target, options)
+```
 
 Opens a URL in a new InAppBrowser instance, the current browser instance, or the system browser.
 
 | Param        | Type           | Details  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----|
 | url     | string | The URL to load. |
 | target      | string      |  The target in which to load the URL, an optional parameter that defaults to _self  |
 | options | string      |   Options for the InAppBrowser. Optional, defaulting to: location=yes. The options string must not contain any blank space, and each feature's name/value pairs must be separated by a comma. Feature names are case insensitive. |
