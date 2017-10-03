@@ -1,4 +1,4 @@
-#Introduction
+#Getting Started: Building a Formelo Applet
 
 Formelo apps are web apps preferably (mobile optimized PWA) which uses Formelo to distribute and access native components like Bluetooth, Push Notifications like a native app.
 
@@ -69,11 +69,11 @@ To preview the your app in the Formelo mobile app, you nedd to have Formelo inst
 Before you can invoke a native formelo API, you have to ensure that the formelo SDK is ready.
 
 You can listen for this event by attaching a callback to the "deviceIsReady" event
-
+```js+lineNumbers:true
     document.addEventListener('deviceIsReady', function(){
         // Entry point of your app
     })
-    
+```   
 It is advisable to ensure the callback becomes the entry point of your app. 
 
 ###Publishing To Formelo

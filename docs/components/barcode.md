@@ -3,7 +3,7 @@
 The Barcode Scanner APi opens a camera view and automatically scans a barcode, returning the data back to you.
 
 **Usage**  
-   
+```js+lineNumbers:true
     import {React, Component} from 'react'
     Class TestClass extends Component {
         componentDidMount(){
@@ -19,10 +19,12 @@ The Barcode Scanner APi opens a camera view and automatically scans a barcode, r
             
         }
     }
-
+```
 
 **Instance Members**
    
+```js+lineNumbers:true
     scan()
+```
 Open the barcode scanner.
 

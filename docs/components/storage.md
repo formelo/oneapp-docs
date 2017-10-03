@@ -3,7 +3,7 @@
 Native storage of variables in Android and iOS
 
 **Usage**
-
+```js+lineNumbers:true
     import {React, Component} from 'react'
     Class TestClass extends Component {
         componentDidMount(){
@@ -24,7 +24,7 @@ Native storage of variables in Android and iOS
             
         }
     }
-
+```
 **Instance Members**
 
     setItem(reference, value)

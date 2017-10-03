@@ -3,7 +3,7 @@
 Captures a signature.
 
 **Usage**
-    
+```js+lineNumbers:true 
     import {React, Component} from 'react'
     Class TestClass extends Component {
         componentDidMount(){
@@ -23,7 +23,7 @@ Captures a signature.
             
         }
     }
-
+```
 
 **Instance Members**
 

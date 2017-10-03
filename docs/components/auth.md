@@ -6,7 +6,7 @@
 
 
 ###Login to Facebook
-
+```js+lineNumbers:true
     import {React, Component} from 'react'
     Class TestClass extends Component {
         componentDidMount(){
@@ -20,10 +20,12 @@
             return null   
         }
     }
-
+```
 ####Instance Members
 
+```js+lineNumbers:true
     loginWIthUber
+```
 Opens up a modal and manages the oAuth flow.
 
 #####Options
@@ -35,7 +37,7 @@ Opens up a modal and manages the oAuth flow.
 
 
 ###Login to Uber
-
+```js+lineNumbers:true
     import {React, Component} from 'react'
     Class TestClass extends Component {
         componentDidMount(){
@@ -49,10 +51,12 @@ Opens up a modal and manages the oAuth flow.
             return null   
         }
     }
-
+```
 ####Instance Members
 
+```js+lineNumbers:true
     loginWIthUber
+```
 Opens up a modal and manages the oAuth flow.
 
 #####Options
@@ -64,7 +68,7 @@ Opens up a modal and manages the oAuth flow.
 
 
 ###Login to Lyft
-
+```js+lineNumbers:true
     import {React, Component} from 'react'
     Class TestClass extends Component {
         componentDidMount(){
@@ -78,10 +82,11 @@ Opens up a modal and manages the oAuth flow.
             return null   
         }
     }
-
+```
 ####Instance Members
-
+```js+lineNumbers:true
     loginWIthUber
+```
 Opens up a modal and manages the oAuth flow.
 
 #####Options

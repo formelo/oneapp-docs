@@ -3,7 +3,7 @@
 Launches in app Browser
 
 **Usage**  
-   
+```js+lineNumbers:true
     import {React, Component} from 'react'
     Class TestClass extends Component {
         componentDidMount(){
@@ -17,11 +17,11 @@ Launches in app Browser
             
         }
     }
-
+```
 **Instance Members**
-
+```js+lineNumbers:true
     create(url, target, options)
-
+```
 Opens a URL in a new InAppBrowser instance, the current browser instance, or the system browser.
 
 | Param        | Type           | Details  |

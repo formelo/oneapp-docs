@@ -29,6 +29,14 @@
 - [Profile](docs/components/profile.md)
 - [Auth](docs/components/auth.md)
 
+## Forms Guide
+- [Overview](docs/guides/forms/overview.md)
+- [Login](docs/guides/forms/login.md)
+- [Models](docs/guides/forms/model.md)
+- [Lists](docs/guides/forms/lists.md)
+- [Reports](docs/guides/forms/reports.md)
+
+
 ## Forms API
 - [Overview](docs/components/forms/overview.md)
 - [Field Display](docs/components/forms/display.md)
@@ -46,16 +54,4 @@
   - [OAuth](docs/security/auth.md#oauth)
   - [Active Directory](docs/security/auth.md#ldap)
 - [Encryption](docs/security/encryption.md)
-
-## JS API Reference
-- [Camera](docs/components/camera.md)
-- [Fingerprint](docs/components/fingerprint.md)
-- [Signature](docs/components/signature.md)
-- [InAppBrowser](docs/components/inappbrowser.md)
-- [Audio](docs/components/audio.md)
-- [Video](docs/components/video.md)
-- [Select List](docs/components/select.md)
-- [Multiselect List](docs/components/multiselect.md)
-- [Barcode](docs/components/barcode.md)
-- [Map](docs/components/map.md)
 

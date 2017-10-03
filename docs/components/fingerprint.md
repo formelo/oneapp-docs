@@ -6,7 +6,7 @@ Pass an "includeTemplate" option to the function call in order to alco sapture t
 
 **Usage**
 
-
+```js+lineNumbers:true
     import {React, Component} from 'react'
     Class TestClass extends Component {
         componentDidMount(){
@@ -28,10 +28,13 @@ Pass an "includeTemplate" option to the function call in order to alco sapture t
             
         }
     }
-
+```
 **Instance Members**
-    
+
+ ```js+lineNumbers:true
     getFingerprint(options)
+ ```
+ 
 | Param        | Type           | Details  |
 | ------------- |:-------------:| -----:|
 | includeTemplate     | boolean | Indicate is the fingerprint device should also capture a template of the user's fingerprint |

@@ -3,7 +3,7 @@
 Display an list for a user to choose
 
 **Usage**
-
+```js+lineNumbers:true
     (function(){
             var options = {
                 name : 'Chose your preferred school'
@@ -26,7 +26,7 @@ Display an list for a user to choose
             .catch()
            
     })()
-
+```
 **Instance Members**
 
     options

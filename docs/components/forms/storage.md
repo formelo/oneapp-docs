@@ -3,7 +3,7 @@
 Native storage of variables in Android and iOS
 
 **Usage**
-
+```js+lineNumbers:true
     (function(){
            formelo().storage.setItem('myitem', {property: 'value', anotherProperty: 'anotherValue'})
                .then(() => console.log('Stored item!'))
@@ -13,7 +13,7 @@ Native storage of variables in Android and iOS
                .then(() => console.log('Stored item!'))
                .catch(error => console.error('Error storing item', error))
     })()
-
+```
 **Instance Members**
 
     setItem(reference, value)

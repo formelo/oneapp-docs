@@ -4,7 +4,7 @@
 
 
 **Usage**
-
+```js+lineNumbers:true
     import {React, Component} from 'react'
     Class TestClass extends Component {
         componentDidMount(){
@@ -16,7 +16,7 @@
             
         }
     }
-
+```
 **Instance Members**
 
     getUserProfile(options)

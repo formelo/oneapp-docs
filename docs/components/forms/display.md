@@ -3,7 +3,7 @@
 Set and Fetch data from a field
 
 **Usage**
-
+```js+lineNumbers:true
     (function(){
         var fieldKey = "last_name"
         var value = "Marley"
@@ -12,7 +12,7 @@ Set and Fetch data from a field
         var lastName = formelo().get(fieldKey);
         console.log(lastName); // Marley
     })()
-
+```
 **Instance Members**
 
     get

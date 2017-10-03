@@ -3,13 +3,13 @@
 Native storage of variables in Android and iOS
 
 **Usage**
-
+```js+lineNumbers:true
     (function(){
           formelo().spinnerDialog.show();
           
           formelo().spinnerDialog.hide();
     })()
-
+```
 **Instance Members**
 
     setItem(reference, value)

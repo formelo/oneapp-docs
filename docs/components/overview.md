@@ -6,7 +6,7 @@ Formelo exposes API that make adding any native functionality you need to your H
 
 Formelo API callbacks returns Promise.
 
-    
+```js+lineNumbers:true
     import {React, Component} from 'react'
     Class TestClass extends Component {
         componentDidMount(){
@@ -22,6 +22,6 @@ Formelo API callbacks returns Promise.
         }
     }
 
-
+```
 
 

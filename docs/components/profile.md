@@ -4,7 +4,7 @@ The profile API provides your app to be able to get the information of the curre
 
 
 **Usage**
-
+```js+lineNumbers:true
     import {React, Component} from 'react'
     Class TestClass extends Component {
         componentDidMount(){
@@ -19,7 +19,7 @@ The profile API provides your app to be able to get the information of the curre
             
         }
     }
-
+```
 **Instance Members**
 
     getUserProfile(options)

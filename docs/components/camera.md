@@ -3,7 +3,7 @@
 Take a photo or capture video.
 
 **Usage**
-
+```js+lineNumbers:true
     import {React, Component} from 'react'
     Class TestClass extends Component {
         componentDidMount(){
@@ -28,7 +28,7 @@ Take a photo or capture video.
             
         }
     }
-
+```
 **Instance Members**
 
     DestinationType

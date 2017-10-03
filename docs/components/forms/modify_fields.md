@@ -3,11 +3,11 @@
 Update a field's meta data
 
 **Usage**
-
+```js+lineNumbers:true
     (function(){
            formelo().updateMetaData(key, options);
     })();
-
+```
 **Instance Members**
 
     updateMetaData(key, options)
