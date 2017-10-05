@@ -40,3 +40,19 @@ Pass an "includeTemplate" option to the function call in order to alco sapture t
 | includeTemplate     | boolean | Indicate is the fingerprint device should also capture a template of the user's fingerprint |
 
 
+Bold
+**Word**
+
+H1
+#Word
+
+Code
+```js+lineNumbers:true
+Var a = 6
+Carb. Long code
+```
+Table
+
+| Param        | Type           | Details  |
+| ------------- |:-------------:| -----:|
+| includeTemplate     | boolean | Indicate is the fingerprint device should also capture a template of the user's fingerprint |

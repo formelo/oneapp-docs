@@ -1,12 +1,8 @@
 # Summary
 
 ## Overview
-- [Overview](docs/start/platform.md)
-- [Hubs](docs/guides/hubs.md)
-- [Workspaces](docs/guides/workspaces.md)
-- [Authentication](docs/guides/auth.md)
 - [Forms](docs/guides/forms.md)
-- [Chat](docs/guides/chat.md)
+- [Applets](docs/guides/chat.md)
 
 ##Tutorials
 - [Your First Applet](docs/start/index.md)
