@@ -2,17 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f33df0f0-859b-4db6-a81c-cd1e7f779a5c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/collecting_payments.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/creating_editing_fields.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/form_builder.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/multiple_pages.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/using_html.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/using_rule_builder.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/start/applets.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/start/forms.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/accounts_login/logging_in/logging_in.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/accounts_login/logging_in/subdomains.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/accounts_login/user_management/permissions.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/form_name.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/admin_only.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/importing_lists.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/max_quantities.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/placeholder_text.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/prepopulate.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/random_answer_choice.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/required.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/tooltip.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/checkbox.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/date_field.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/dropdown.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/email_field.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/field_types.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/multiple_choice_field.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/number_field.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/phone_field.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/section_breaker_fields.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/single_line_txt.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/terms_conditions.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/time.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/form_logic/confirmation_email.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/form_logic/form_settings.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/managing_forms/copying.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/managing_forms/editing_form.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/managing_forms/form_manager.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/build_a_form/managing_forms/public_or_private.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/entries_reports/creating_entries/building_reports.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/entries_reports/creating_entries/form_activity.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/deleting_entries.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/downloading_entries.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/editing_entries.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/form_analytics.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/managind_entries.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/viewing_entries.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SUMMARY.md" afterPath="$PROJECT_DIR$/SUMMARY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/components/fingerprint.md" afterPath="$PROJECT_DIR$/docs/components/fingerprint.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,12 +55,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="applets.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/start/applets.md">
+      <file leaf-file-name="deleting_entries.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/deleting_entries.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="290">
-                <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+              <first_editor relative-caret-position="438">
+                <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -40,12 +68,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/guides/forms/login.md">
+      <file leaf-file-name="form_analytics.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/form_analytics.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="174">
-                <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <first_editor relative-caret-position="261">
+                <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -53,12 +81,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="model.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/guides/forms/model.md">
+      <file leaf-file-name="storage.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/components/storage.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="171">
-                <caret line="71" column="38" lean-forward="false" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
+              <first_editor relative-caret-position="322">
+                <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="57" selection-end-column="29" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -66,12 +94,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form_builder.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/form_builder.md">
+      <file leaf-file-name="building_reports.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/guides/forms/entries_reports/creating_entries/building_reports.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="464">
-                <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <first_editor relative-caret-position="583">
+                <caret line="40" column="3" lean-forward="false" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -79,12 +107,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="creating_editing_fields.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/creating_editing_fields.md">
+      <file leaf-file-name="spinner.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/components/spinner.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="406">
-                <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <first_editor relative-caret-position="-229">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -92,12 +120,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="using_html.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/using_html.md">
+      <file leaf-file-name="form_activity.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/guides/forms/entries_reports/creating_entries/form_activity.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="809">
-                <caret line="61" column="38" lean-forward="false" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+              <first_editor relative-caret-position="261">
+                <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -105,12 +133,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="multiple_pages.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/multiple_pages.md">
+      <file leaf-file-name="logging_in.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/guides/forms/accounts_login/logging_in/logging_in.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="809">
-                <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <first_editor relative-caret-position="409">
+                <caret line="41" column="23" lean-forward="false" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -118,12 +146,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="using_rule_builder.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/using_rule_builder.md">
+      <file leaf-file-name="subdomains.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/guides/forms/accounts_login/logging_in/subdomains.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="838">
-                <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <first_editor relative-caret-position="380">
+                <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -131,12 +159,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="collecting_payments.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/collecting_payments.md">
+      <file leaf-file-name="signature.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/components/signature.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="809">
-                <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <first_editor relative-caret-position="-461">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -144,12 +172,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fingerprint.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/components/fingerprint.md">
+      <file leaf-file-name="permissions.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/guides/forms/accounts_login/user_management/permissions.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="467">
-                <caret line="58" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <first_editor relative-caret-position="435">
+                <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -186,39 +214,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/guides/first_applet.js" />
-        <option value="$PROJECT_DIR$/docs/guides/first_applet.md" />
-        <option value="$PROJECT_DIR$/docs/components/forms/overview.md" />
-        <option value="$PROJECT_DIR$/docs/components/forms/modify_fields.js" />
-        <option value="$PROJECT_DIR$/book.json" />
-        <option value="$PROJECT_DIR$/docs/components/forms/inappbrowser.md" />
-        <option value="$PROJECT_DIR$/docs/guides/forms/login.md" />
-        <option value="$PROJECT_DIR$/docs/guides/forms/model.md" />
-        <option value="$PROJECT_DIR$/docs/guides/forms/reports.md" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/docs/components/auth.md" />
-        <option value="$PROJECT_DIR$/docs/components/barcode.md" />
-        <option value="$PROJECT_DIR$/docs/components/camera.md" />
-        <option value="$PROJECT_DIR$/docs/components/inappbrowser.md" />
-        <option value="$PROJECT_DIR$/docs/components/overview.md" />
-        <option value="$PROJECT_DIR$/docs/components/profile.md" />
-        <option value="$PROJECT_DIR$/docs/components/signature.md" />
-        <option value="$PROJECT_DIR$/docs/components/spinner.md" />
-        <option value="$PROJECT_DIR$/docs/components/storage.md" />
-        <option value="$PROJECT_DIR$/docs/components/forms/display.md" />
-        <option value="$PROJECT_DIR$/docs/components/forms/modify_fields.md" />
-        <option value="$PROJECT_DIR$/docs/components/forms/picker.md" />
-        <option value="$PROJECT_DIR$/docs/components/forms/spinner.md" />
-        <option value="$PROJECT_DIR$/docs/components/forms/storage.md" />
-        <option value="$PROJECT_DIR$/docs/components/forms/toast.md" />
-        <option value="$PROJECT_DIR$/docs/start/index.md" />
-        <option value="$PROJECT_DIR$/docs/start/platform.md" />
-        <option value="$PROJECT_DIR$/docs/guides/applets/rtm.md" />
-        <option value="$PROJECT_DIR$/docs/guides/applets/rtm/get_started.md" />
-        <option value="$PROJECT_DIR$/docs/guides/applets/rtm/working_with_lists.md" />
-        <option value="$PROJECT_DIR$/docs/guides/applets/rtm/save_data.md" />
-        <option value="$PROJECT_DIR$/docs/guides/applets/storage/introduction.md" />
-        <option value="$PROJECT_DIR$/_book/docs/guides/applets/rtm/get_started.md" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/docs/start/forms.md" />
         <option value="$PROJECT_DIR$/docs/start/applets.md" />
@@ -231,6 +226,45 @@
         <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/multiple_pages.md" />
         <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/using_rule_builder.md" />
         <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/collecting_payments.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/form_name.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/managing_forms/public_or_private.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/managing_forms/copying.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/managing_forms/editing_form.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/managing_forms/form_manager.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/field_types.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/section_breaker_fields.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/terms_conditions.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/date_field.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/time.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/multiple_choice_field.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/checkbox.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/single_line_txt.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/number_field.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/dropdown.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/email_field.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/phone_field.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/placeholder_text.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/random_answer_choice.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/tooltip.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/importing_lists.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/required_fields.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/required.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/max_quantities.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/admin_only.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/prepopulate.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/form_logic/confirmation_email.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/build_a_form/form_logic/form_settings.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/viewing_entries.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/managind_entries.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/downloading_entries.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/editing_entries.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/deleting_entries.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/form_analytics.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/entries_reports/creating_entries/building_reports.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/entries_reports/creating_entries/form_activity.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/accounts_login/logging_in/logging_in.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/accounts_login/logging_in/subdomains.md" />
+        <option value="$PROJECT_DIR$/docs/guides/forms/accounts_login/user_management/permissions.md" />
       </list>
     </option>
   </component>
@@ -342,7 +376,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="build_a_form" />
+              <option name="myItemId" value="accounts_login" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user_management" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -368,11 +406,37 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="build_a_form" />
+              <option name="myItemId" value="accounts_login" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="creating_forms" />
+              <option name="myItemId" value="logging_in" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oneapp-docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oneapp-docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guides" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forms" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts_login" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -407,6 +471,10 @@
               <option name="myItemId" value="docs" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -419,7 +487,7 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/daniel/Documents/Daniel/Work/Projects/docs.formelo.com/oneapp-docs/docs/start/platform.md&#10;inapp&#9;FILE&#9;file:///Users/daniel/Documents/Daniel/Work/Projects/docs.formelo.com/oneapp-docs/docs/components/forms/inappbrowser.md&#10;vertic&#9;ACTION&#9;SplitVertically" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/daniel/Documents/Daniel/Work/Projects/docs.formelo.com/oneapp-docs/docs/guides/forms/build_a_form/field_types/field_types.md&#10;inapp&#9;FILE&#9;file:///Users/daniel/Documents/Daniel/Work/Projects/docs.formelo.com/oneapp-docs/docs/components/forms/inappbrowser.md&#10;vertic&#9;ACTION&#9;SplitVertically" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -522,11 +590,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57012000" />
+    <option name="totallyTimeSpent" value="65436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1797" height="1129" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20683761" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -536,7 +604,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -558,464 +626,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/components/signature.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="203">
-            <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/website.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/start/first_applet.md" />
-    <entry file="file://$PROJECT_DIR$/docs/components/forms/modify_fields.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/guides/forms/reports.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="406">
-            <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/camera.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="435">
-            <caret line="30" column="3" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/forms/display.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="406">
-            <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/forms/inappbrowser.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="232">
-            <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/forms/modify_fields.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="261">
-            <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/forms/overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="493">
-            <caret line="17" column="82" lean-forward="false" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="82" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/forms/picker.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="493">
-            <caret line="28" column="3" lean-forward="false" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/forms/spinner.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="319">
-            <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/forms/storage.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="435">
-            <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/forms/toast.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="580">
-            <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/auth.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="229">
-            <caret line="69" column="16" lean-forward="false" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/guides/forms/lists.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="174">
-            <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="403">
-            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/start/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
-            <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/barcode.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="113">
-            <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/spinner.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="522">
-            <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/profile.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="609">
-            <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/inappbrowser.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="754">
-            <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/signature.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="725">
-            <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/storage.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="638">
-            <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/guides/applets/rtm/working_with_lists.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="493">
-            <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/guides/applets/rtm/save_data.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1479">
-            <caret line="51" column="23" lean-forward="false" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/guides/applets/storage/upload.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="319">
-            <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/guides/applets/storage/introduction.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="319">
-            <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_book/docs/guides/applets/rtm/get_started.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/guides/applets/rtm/setup.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="435">
-            <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/guides/applets/rtm/introduction.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="551">
-            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="58">
-            <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/start/platform.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="87">
-            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="696">
-            <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/start/forms.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="27" column="213" lean-forward="false" selection-start-line="27" selection-start-column="213" selection-end-line="27" selection-end-column="213" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/start/applets.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="290">
-            <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/guides/forms/login.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="174">
-            <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/getting_started.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="232">
-            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/components/fingerprint.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="467">
-            <caret line="58" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/creating_editing_fields.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="406">
-            <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/aaa.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/forms_with_multiple_pages.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/aa.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1085,8 +695,486 @@
     <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/using_html.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="809">
-            <caret line="61" column="38" lean-forward="false" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+          <first_editor relative-caret-position="229">
+            <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/creating_forms/form_name.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="322">
+            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/reports.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="493">
+            <caret line="26" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/managing_forms/public_or_private.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="290">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/managing_forms/copying.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="554">
+            <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/managing_forms/editing_form.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="232">
+            <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/managing_forms/form_manager.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="206">
+            <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/field_types.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="583">
+            <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/section_breaker_fields.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="232">
+            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/terms_conditions.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="264">
+            <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/date_field.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="496">
+            <caret line="32" column="3" lean-forward="false" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/time.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="493">
+            <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/multiple_choice_field.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="583">
+            <caret line="37" column="15" lean-forward="false" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/checkbox.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="435">
+            <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/single_line_txt.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="174">
+            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/number_field.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="145">
+            <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/dropdown.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="467">
+            <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/email_field.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="583">
+            <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_types/phone_field.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="583">
+            <caret line="21" column="149" lean-forward="false" selection-start-line="21" selection-start-column="149" selection-end-line="21" selection-end-column="149" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/placeholder_text.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="583">
+            <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/random_answer_choice.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="348">
+            <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/tooltip">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/tooltip.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="406">
+            <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/importing_lists.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="583">
+            <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/required_fields.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/required.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="467">
+            <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/max_quantities.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="464">
+            <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/admin_only.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="232">
+            <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/field_settings/prepopulate.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="754">
+            <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/form_logic/confirmation_email.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="438">
+            <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/build_a_form/form_logic/form_settings.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="322">
+            <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/viewing_entries.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="380">
+            <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/managind_entries.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="583">
+            <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/downloading_entries.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3">
+            <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/editing_entries.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="29">
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/deleting_entries.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="438">
+            <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/entries_reports/managing_entries/form_analytics.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="261">
+            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/entries_reports/creating_entries/building_reports.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="583">
+            <caret line="40" column="3" lean-forward="false" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/entries_reports/creating_entries/form_activity.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="261">
+            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/accounts_login/logging_in/logging_in.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="409">
+            <caret line="41" column="23" lean-forward="false" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/accounts_login/logging_in/subdomains.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="380">
+            <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/components/signature.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-461">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/components/spinner.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-229">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/components/storage.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="322">
+            <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="57" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guides/forms/accounts_login/user_management/permissions.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="435">
+            <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />
